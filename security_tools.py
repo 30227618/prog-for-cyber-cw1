@@ -1,6 +1,3 @@
-#Week 5, Task 5
-#Mohammed Ahmed
-
 import random   #Imports the random module
 
 def validate_password(password):    #Defines the validate_password function
